@@ -1,6 +1,6 @@
 # David G. Bonacho
 ![](https://github.com/tizedit/.github/raw/main/hello.jpg)
-Multimedia Developer - Music Composer - IT Teacher
+Multimedia Developer - Music Composer .... IT Teacher
 What a mix!
 <!--
 **davidgbonacho/davidgbonacho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
