@@ -2,6 +2,13 @@
 ![](https://github.com/tizedit/.github/raw/main/hello.jpg)\
 Multimedia Developer - Music Composer & IT Teacher .... 
 What a mix!
+
+## Some HTML based websites (Build generated in a React application)
+[Website de noticias (creado con Figma+builder.io)](https://davidgbonacho.github.io/noticias/)
+[Capitales de USA (crado con lovable)](https://davidgbonacho.github.io/CapitalQuizzer/)
+[HQ wireframe app HaySuficiente (creado con Stitch) ](https://davidgbonacho.github.io/haysuficiente/)
+[Desmostración de PWA instalable](https://davidgbonacho.github.io/Installable_web/)
+[Sitio HTML CSS3 demo (creado con )](https://davidgbonacho.github.io/Sample-Github-Pages/)
 <!--
 **davidgbonacho/davidgbonacho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
