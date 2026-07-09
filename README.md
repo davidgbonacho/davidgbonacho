@@ -1,6 +1,6 @@
 # David G. Bonacho
 
-![](https://github.com/tizedit/.github/raw/main/hello.jpg)  
+![](https://github.com/davidgbonacho/img/hello.jpg)  
 
 Multimedia Developer - Music Composer & IT Teacher .... 
 What a mix!
