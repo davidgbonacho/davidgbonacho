@@ -8,10 +8,10 @@ What a mix!
 ## Some HTML5+CSS3 based websites (Build generated in a React application)
 
 ⚡[News website (created with Figma+builder.io)](https://davidgbonacho.github.io/noticias/)  
-⚡[USA capitals (created with lovable)](https://davidgbonacho.github.io/CapitalQuizzer/)  
+⚡[USA capitals (created with Lovable)](https://davidgbonacho.github.io/CapitalQuizzer/)  
 ⚡[HQ wireframe app HaySuficiente (created with Stitch) ](https://davidgbonacho.github.io/haysuficiente/)  
 ⚡[Installable PWA demo](https://davidgbonacho.github.io/Installable_web/)  
-⚡[HTML CSS3 demo (created with )](https://davidgbonacho.github.io/Sample-Github-Pages/)  
+⚡[HTML CSS3 demo (created with Claude )](https://davidgbonacho.github.io/Sample-Github-Pages/)  
 ⚡[Web site design -illustrates the possibilities of Tailwind- (created with Stitch)](https://davidgbonacho.github.io/progamers/)
 
 
