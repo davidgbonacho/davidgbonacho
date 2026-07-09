@@ -5,7 +5,7 @@
 Multimedia Developer - Music Composer & IT Teacher .... 
 What a mix!
 
-## Some HTML based websites (Build generated in a React application)
+## Some HTML5+CSS3 based websites (Build generated in a React application)
 [News website (created with Figma+builder.io)](https://davidgbonacho.github.io/noticias/)  
 [USA capitals (created with lovable)](https://davidgbonacho.github.io/CapitalQuizzer/)  
 [HQ wireframe app HaySuficiente (created with Stitch) ](https://davidgbonacho.github.io/haysuficiente/)  
