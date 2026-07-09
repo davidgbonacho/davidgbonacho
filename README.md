@@ -1,5 +1,7 @@
 # David G. Bonacho
-![](https://github.com/tizedit/.github/raw/main/hello.jpg)\
+
+![](https://github.com/tizedit/.github/raw/main/hello.jpg)  
+
 Multimedia Developer - Music Composer & IT Teacher .... 
 What a mix!
 
@@ -9,7 +11,7 @@ What a mix!
 [HQ wireframe app HaySuficiente (created with Stitch) ](https://davidgbonacho.github.io/haysuficiente/)  
 [Installable PWA demo](https://davidgbonacho.github.io/Installable_web/)  
 [HTML CSS3 demo (created with )](https://davidgbonacho.github.io/Sample-Github-Pages/)  
-[Web site design -illustrates the possibilities of Tailwind-  (creado con )](https://davidgbonacho.github.io/Sample-Github-Pages/)  
+[Web site design -illustrates the possibilities of Tailwind-  (created with Stitch)](https://davidgbonacho.github.io/progamers/)  
 
 <!--
 **davidgbonacho/davidgbonacho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
