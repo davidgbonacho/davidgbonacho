@@ -7,12 +7,11 @@ What a mix!
 
 ## Some HTML5+CSS3 based websites (Build generated in a React application)
 
-[News website (created with Figma+builder.io)](https://davidgbonacho.github.io/noticias/)  
-[News website (created with Figma+builder.io) ![Live Demo](https://img.shields.io/badge/Live-Demo-00C853?style=for-the-badge)](https://davidgbonacho.github.io/noticias/)
+[News website (created with Figma+builder.io) ![Live Demo](https://img.shields.io/badge/Live-Demo-00C853?style=for-the-badge)](https://davidgbonacho.github.io/noticias/)  
 [USA capitals (created with lovable)](https://davidgbonacho.github.io/CapitalQuizzer/)  
 [HQ wireframe app HaySuficiente (created with Stitch) ](https://davidgbonacho.github.io/haysuficiente/)  
 [Installable PWA demo](https://davidgbonacho.github.io/Installable_web/)  
-[HTML CSS3 demo (created with )](https://davidgbonacho.github.io/Sample-Github-Pages/)  
+[HTML CSS3 demo (created with ) ![GitHub Pages](https://img.shields.io/badge/GitHub-Pages-222222?logo=github&logoColor=white&style=for-the-badge)](https://davidgbonacho.github.io/noticias/)  
 [Web site design -illustrates the possibilities of Tailwind- (created with Stitch)](https://davidgbonacho.github.io/progamers/)
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://davidgbonacho.github.io/noticias/)
