@@ -1,6 +1,7 @@
 # David G. Bonacho
 
 ![](https://github.com/tizedit/.github/raw/main/hello.jpg)  
+<div style="width:100%; text-align:center">
 <pre>
 .:..--......\::::--\\\-:-:\.:::\:\\:||:::::::-:\:H:\::\:\\::::\::\:\:::-:--
 --. - -...::H-:::-::::-:::\ :\\:\\:-\:-\::\:::-::|::::\\\::\:\\\\:::\\\\\:-
@@ -33,6 +34,7 @@
                                   .-----..           .   
   
 </pre>
+</div>
 
 Multimedia Developer - Music Composer & IT Teacher .... 
 What a mix!
