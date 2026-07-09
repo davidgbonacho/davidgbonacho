@@ -45,16 +45,9 @@ What a mix!
   </a>
 </div>
 
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://davidgbonacho.github.io/noticias/)
 
-<div style="width:100%; height:250px;">
-  <iframe
-    src="canvas/bolas.html"
-    width="100%"
-    height="100%"
-    style="border:none;"
-    loading="lazy">
-  </iframe>
-</div>
+
 
 
 <!--
