@@ -4,11 +4,13 @@ Multimedia Developer - Music Composer & IT Teacher ....
 What a mix!
 
 ## Some HTML based websites (Build generated in a React application)
-[Website de noticias (creado con Figma+builder.io)](https://davidgbonacho.github.io/noticias/)  
-[Capitales de USA (crado con lovable)](https://davidgbonacho.github.io/CapitalQuizzer/)  
-[HQ wireframe app HaySuficiente (creado con Stitch) ](https://davidgbonacho.github.io/haysuficiente/)  
-[Desmostración de PWA instalable](https://davidgbonacho.github.io/Installable_web/)  
-[Sitio HTML CSS3 demo (creado con )](https://davidgbonacho.github.io/Sample-Github-Pages/)  
+[News website (created with Figma+builder.io)](https://davidgbonacho.github.io/noticias/)  
+[USA capitals (created with lovable)](https://davidgbonacho.github.io/CapitalQuizzer/)  
+[HQ wireframe app HaySuficiente (created with Stitch) ](https://davidgbonacho.github.io/haysuficiente/)  
+[Installable PWA demo](https://davidgbonacho.github.io/Installable_web/)  
+[HTML CSS3 demo (created with )](https://davidgbonacho.github.io/Sample-Github-Pages/)  
+[Web site design -illustrates the possibilities of Tailwind-  (creado con )](https://davidgbonacho.github.io/Sample-Github-Pages/)  
+
 <!--
 **davidgbonacho/davidgbonacho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
