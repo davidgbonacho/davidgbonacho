@@ -6,11 +6,10 @@ Multimedia Developer - Music Composer & IT Teacher ....
 What a mix!
 
 ## Some HTML5+CSS3 based websites (Build generated in a React application)
-News website (created with Figma+builder.io)  
-[![Live Demo](https://img.shields.io/badge/Live-Demo-00C853?style=for-the-badge)](https://davidgbonacho.github.io/noticias/)  
+News website (created with Figma+builder.io) [![Live Demo](https://img.shields.io/badge/Live-Demo-00C853?style=for-the-badge)](https://davidgbonacho.github.io/noticias/)  
 [USA capitals (created with lovable)](https://davidgbonacho.github.io/CapitalQuizzer/)  
 [HQ wireframe app HaySuficiente (created with Stitch) ](https://davidgbonacho.github.io/haysuficiente/)  
-Installable PWA demo ![PWA](https://img.shields.io/badge/PWA-Ready-5A0FC8?logo=pwa&logoColor=white&style=for-the-badge)  
+Installable PWA demo [![PWA](https://img.shields.io/badge/PWA-Ready-5A0FC8?logo=pwa&logoColor=white&style=for-the-badge)] 
 [HTML CSS3 demo (created with ) ![GitHub Pages](https://img.shields.io/badge/GitHub-Pages-222222?logo=github&logoColor=white&style=for-the-badge)](https://davidgbonacho.github.io/Sample-Github-Pages/)  
 [Web site design -illustrates the possibilities of Tailwind- (created with Stitch)](https://davidgbonacho.github.io/progamers/)
 
