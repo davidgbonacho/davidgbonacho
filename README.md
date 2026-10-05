@@ -15,7 +15,7 @@ What a mix!
 ⚡[Web site design -illustrates the possibilities of Tailwind- (created with Stitch)](https://davidgbonacho.github.io/progamers/)
 
 ## Multimedia Tools
-# Video/VFX
+### Video/VFX
 ⚡[Hyperframes (video editor built for agents)](https://hyperframes.heygen.com/) 
 ⚡[World Labs (A world model for Spatial Intelligence)](https://www.worldlabs.ai/blog/atlas) 
 ⚡[Spaces (Node based VFX video gen editor)](https://www.magnific.com/spaces)
